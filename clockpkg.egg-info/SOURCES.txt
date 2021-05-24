@@ -1,0 +1,9 @@
+CHANGELOG.txt
+MANIFEST.in
+README.md
+setup.py
+clockpkg/__init__.py
+clockpkg.egg-info/PKG-INFO
+clockpkg.egg-info/SOURCES.txt
+clockpkg.egg-info/dependency_links.txt
+clockpkg.egg-info/top_level.txt

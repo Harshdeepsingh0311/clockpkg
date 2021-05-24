@@ -17,6 +17,7 @@ setup(
     author_email="harshdeepsinghbakshi2005@gmail.com",
     description='Simple package to make an analog clock.',
     long_description_content_type="text/markdown",
+    url='https://github.com/Harshdeepsingh0311/clockpkg',
     long_description=long_description,
     packages=find_packages(),
     install_requires=[],
